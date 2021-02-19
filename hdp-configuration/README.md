@@ -1,9 +1,9 @@
 Running the YARN Utility Script
 =================
 
-# This section describes how to use the yarn-utils-py script to calculate YARN, MapReduce, Hive, and Tez memory allocation settings based on the node hardware specifications. The yarn-utils-py script is included in the HDP companion files
+This section describes how to use the yarn-utils-py script to calculate YARN, MapReduce, Hive, and Tez memory allocation settings based on the node hardware specifications. The yarn-utils-py script is included in the HDP companion files
 
-# To run the yarn-utils-py script, execute the following command from the folder containing the script yarn-utils-py options, where options are as follows:
+To run the yarn-utils-py script, execute the following command from the folder containing the script yarn-utils-py options, where options are as follows:
 
     Option 						Description
 ----------------------------------------------------------------------------
